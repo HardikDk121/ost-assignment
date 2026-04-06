@@ -1,1 +1,1 @@
-consle.log(fixing);
+consle.log('fixing');
